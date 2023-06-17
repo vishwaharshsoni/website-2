@@ -141,7 +141,7 @@ img
     color: hsl(300, 43%, 22%);
     font-family: 'League Spartan', sans-serif;
 }
-@media (max-width:1201px)
+@media (max-width:1020px)
 {
     .container1
     {
